@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Material yo!</string>
+<string name="title_placeholder">Titulo</string>
+<string name="news_placeholder">Noticias</string>
+<string name="sports_info_placeholder">Aqui hay algunas noticias</string>
+<string name="subtitle_detail_text">Hola, la API para obtener datos en vivo aún está en marcha, por favor tenga paciencia mientras tanto &#128522;.</string>
+
+<string-array name="sports_titles">
+    <item>Fútbol americano</item>
+    <item>Béisbol</item>
+    <item>Bádminton</item>
+    <item>Baloncesto</item>
+    <item>Bolos</item>
+    <item>Ciclismo</item>
+    <item>Golf</item>
+    <item>Running</item>
+    <item>Correr</item>
+    <item>Tenis de mesa</item>
+    <item>Tenis</item>
+</string-array>
+
+<string-array name="sports_info">
+    <item>Fútbol: Siuuuuuuu!!!Cristiano Ronaldo anota en cómoda victoria!</item>
+    <item>Un perro se roba el espectáculo después de atrapar un jonrón!</item>
+    <item>El volante de Jaipur Himani Punia triunfa en el Campeonato de bádminton de veteranos de Indian Masters</item>
+    <item>LeBron James regresa para impulsar el final de la temporada con Los Angeles Lakers después de ponerse en contacto con un especialista en pies no identificado</item>
+    <item>Richard Morley celebra 50 años en el Campeonato Abierto USBC!</item>
+    <item>Las carreras de carretera holandesas están amenazadas con la prohibición nacional de usar la policía local de motos.</item>
+    <item>Después de vencer a Scottie Scheffler, Rory McIlroy centra su atención en Masters</item>
+    <item>Éxito olímpico australiano en riesgo: jefe de AOC</item>
+    <item>Drew Kibler, Alex Shackell, Aaron Shackell, Daniel Diehl Nadan Tiempos de Clase Mundial en las Seccionales de Indianápolis</item>
+    <item>Sun Yingsha ganó el título de mujeres individuales en Singapur Smash 2023, derrotando a Qian Tianyi 4-1</item>
+    <item>Tenis genial sobre Novak Djokovic: lo que está haciendo no por sí mismo sino por el tenis en general es increíble</item>
+</string-array>
+
+
+<array name="sports_images">
+    <item>@drawable/img_soccer</item>
+    <item>@drawable/img_baseball</item>
+    <item>@drawable/img_badminton</item>
+    <item>@drawable/img_basketball</item>
+    <item>@drawable/img_bowling</item>
+    <item>@drawable/img_cycling</item>
+    <item>@drawable/img_golf</item>
+    <item>@drawable/img_running</item>
+    <item>@drawable/img_swimming</item>
+    <item>@drawable/img_tabletennis</item>
+    <item>@drawable/img_tennis</item>
+
+</array>
+
+
+</resources>
